@@ -1,0 +1,8 @@
+PS C:\Users\mogol\OneDrive\Escritorio\BRISA\proyecto final> 
+PS C:\Users\mogol\OneDrive\Escritorio\BRISA\proyecto final> echo "# marina" >> README.md 
+>> git init 
+>> git add README.md 
+>> git commit -m "primer commit" 
+>> git branch -M main 
+>> git remote add origin https://github.com/marinamogollan-star/marina.git
+>>  git push -u origin main
